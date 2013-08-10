@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>nz.ac.auckland</groupId>
-    <artifactId>uoa-parent</artifactId>
-    <version>1.8</version>
+    <groupId>nz.ac.auckland.groupapps.parent</groupId>
+    <artifactId>parent-groupapps-central</artifactId>
+    <version>1.1</version>
   </parent>
   
   <groupId>nz.ac.auckland.composite</groupId>
