@@ -18,6 +18,13 @@
     Collection of logging api dependencies
   </description>
 
+  <scm>
+    <url>https://github.com/uoa-group-applications/composite-logging-api</url>
+    <connection>scm:git:https://github.com/uoa-group-applications/composite-logging-api.git</connection>
+    <developerConnection>scm:git:git@github.com:uoa-group-applications/composite-logging-api.git</developerConnection>
+  </scm>
+
+
   <dependencies>
     <dependency>
       <groupId>org.slf4j</groupId>
